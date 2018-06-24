@@ -1,0 +1,16 @@
+Transfer from Schematic to PCB.
+-------------------------------
+
+Report Written:     Monday, January 15, 2018
+Design Path:        D:\Projects\Quad\ESC\ESC_SMD\ESC_SMD.pcb
+Design Title:       
+Created:            1/15/2018 5:43:56 PM
+Last Saved:         1/15/2018 5:44:24 PM
+Editing Time:       0 min
+Units:              cm (precision 2)
+
+Net class "Power" was not defined, but has been created. Please check the values in the PCB design.
+Net class "Ground" was not defined, but has been created. Please check the values in the PCB design.
+Net class "Signal" was not defined, but has been created. Please check the values in the PCB design.
+
+End Of Report.

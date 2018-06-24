@@ -1,0 +1,115 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Monday, January 15, 2018
+Design Path:        D:\Projects\Quad\ESC\ESC_SMD\ESC_SMD.pcb
+Design Title:       
+Created:            1/15/2018 4:18:05 PM
+Last Saved:         1/15/2018 4:19:10 PM
+Editing Time:       1 min
+Units:              cm (precision 2)
+
+
+Results
+=======
+
+Via to Silkscreen error (V-S) at (47.63 48.21) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (51.31 48.91) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps via.
+Via to Silkscreen Error (V-S) between (51.74 51.47) and (51.73 51.48) on Layer "Bottom Silkscreen".
+    Silkscreen text 'R2' overlaps via.
+Via to Silkscreen error (V-S) at (48.99 48.04) on layer "Bottom Silkscreen".
+    Silkscreen text 'C2' overlaps via.
+Pad to Via error (P-V) at (50.80 52.13) on layer "[Bottom]".
+    Via in pad Component Pad Q4.2 (Net '+5V').
+Pad to Via error (P-V) at (50.93 52.13) on layer "[Bottom]".
+    Via in pad Component Pad Q4.2 (Net '+5V').
+Via to Silkscreen error (V-S) at (50.16 52.46) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (48.64 51.89) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (48.64 52.21) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (48.64 52.34) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (48.60 52.79) on layer "Bottom Silkscreen".
+    Silkscreen text 'Q5' overlaps via.
+Via to Silkscreen Error (V-S) between (48.56 52.79) and (48.56 52.79) on Layer "Bottom Silkscreen".
+    Silkscreen text 'Q5' overlaps via.
+Via to Silkscreen error (V-S) at (49.33 49.39) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (49.40 48.72) on layer "Bottom Silkscreen".
+    Silkscreen text 'C3' overlaps via.
+Via to Silkscreen error (V-S) at (48.73 48.04) on layer "Bottom Silkscreen".
+    Silkscreen text 'C4' overlaps via.
+Via to Silkscreen error (V-S) at (52.67 48.09) on layer "Top Silkscreen".
+    Silkscreen text 'PL3' overlaps via.
+Via to Silkscreen error (V-S) at (48.18 48.96) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (48.64 49.80) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (50.04 51.45) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps via.
+Via to Silkscreen Error (V-S) between (50.61 49.52) and (50.61 49.52) on Layer "Bottom Silkscreen".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (51.21 50.06) on layer "Top Silkscreen".
+    Silkscreen text 'D3' overlaps via.
+Via to Silkscreen Error (V-S) between (49.45 48.05) and (49.45 48.05) on Layer "Bottom Silkscreen".
+    Silkscreen text 'R6' overlaps via.
+Via to Silkscreen error (V-S) at (48.35 48.17) on layer "Bottom Silkscreen".
+    Silkscreen text 'C6' overlaps via.
+Via to Silkscreen error (V-S) at (51.37 48.78) on layer "Top Silkscreen".
+    Silkscreen text 'PL6' overlaps via.
+Gap in Net "0V" between (51.31,48.96) and (51.56,49.02) 
+    0V.
+Gap in Net "0V" between (51.31,48.96) and (50.93,49.59) 
+    0V.
+
+Number of errors found : 26
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  Yes
+Drill Backoff                   Yes
+Silkscreen Overlap              Yes
+Copper Text In Board            Yes
+Min Track Width                 Yes
+Min Annular Ring                Yes
+Min Paste Size                  Yes
+Vias In Pads                    Yes
+Unplated Vias                   Yes
+Unplated Pads With Inner Tracks Yes
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+
+
+
+End Of Report.

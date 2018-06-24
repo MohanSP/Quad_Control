@@ -1,0 +1,30 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Monday, January 15, 2018
+Design Path:        D:\Projects\Quad\ESC\ESC_SMD\ESC_SMD.pcb
+Design Title:       
+Created:            1/15/2018 4:58:59 PM
+Last Saved:         1/15/2018 5:03:34 PM
+Editing Time:       18 min
+Units:              cm (precision 2)
+
+Disconnected pin "Q1-2" from net "+5V".
+Disconnected pin "Q4-2" from net "+5V".
+Disconnected pin "Q7-2" from net "+5V".
+
+Added net "+12V".
+
+Added component reference "C7" of component "Capacitor Electrolytic (large)", package "DIL".
+Added component reference "PL5" of component "CONN_SIL_2", package "DSC".
+
+Connected pin "Q1-2" to net "+12V".
+Connected pin "Q4-2" to net "+12V".
+Connected pin "Q7-2" to net "+12V".
+Connected pin "C7-1" to net "+12V".
+Connected pin "C7-2" to net "0V".
+Connected pin "PL5-1" to net "0V".
+Connected pin "PL5-2" to net "+12V".
+
+
+End Of Report.
